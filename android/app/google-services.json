@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "769291450542",
+    "firebase_url": "https://blogapp-63085.firebaseio.com",
+    "project_id": "blogapp-63085",
+    "storage_bucket": "blogapp-63085.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769291450542:android:d3092698208b99a9ac153f",
+        "android_client_info": {
+          "package_name": "com.rohit.BlogApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769291450542-tjhg983bkp92n4tvdqoc84k78esj0t3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-in8GLxMmxsRgpiY2H5dIUlO18jP2iEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769291450542-tjhg983bkp92n4tvdqoc84k78esj0t3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
